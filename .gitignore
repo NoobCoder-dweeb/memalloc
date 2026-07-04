@@ -1,3 +1,7 @@
 # output files
 *.out
 *.exe
+
+# VS Code
+.vscode
+.vscode/*
